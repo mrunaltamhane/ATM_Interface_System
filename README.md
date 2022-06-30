@@ -7,4 +7,4 @@
   - Withdraw
   - Check Balance
   - Fast Cash
-- Thank You
+- Thank You Page
